@@ -1,15 +1,7 @@
 /*
  Navicat Premium Data Transfer
 
- Source Server         : 测试数据库
- Source Server Type    : MySQL
- Source Server Version : 50717
- Source Host           : 124.71.85.171:3306
- Source Schema         : rux_browser_main_test
 
- Target Server Type    : MySQL
- Target Server Version : 50717
- File Encoding         : 65001
 
  Date: 07/02/2025 15:51:39
 */
